@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=DotGothic16&duration=5066&pause=920&color=8B4869&center=true&vCenter=true&random=true&width=435&lines=Ol%C3%A1%2C+seja+bem-vindo+ao+meu+perfil!;Hello%2C+welcome+to+my+profile!)](https://git.io/typing-svg)
+
 ## Hi there 👋
 
 <!--
