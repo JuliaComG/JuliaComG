@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">🌍 Sou de Minas Gerais, Brasil<br>🎓 Estudante da ONE - Oracle Next Education, programa de estudo criada pela Oracle em parceria com a Alura<br>🌱 Aprendendo: Java, HTML, CSS e JavaScript<br>🎯 Objetivo: Tornar-me uma desenvolvedora back-end em Java<br>🎓 Formação: Técnica em Informática pelo CEFET MG | Graduada em Enfermagem pela UFRJ<br>🌐 Idiomas: Português (Nativo) | Inglês (Intermediário - B1)</p>
+<p align="left">🌍 Sou de Minas Gerais, Brasil<br>🎓 Estudante da ONE - Oracle Next Education, programa de estudo criada pela Oracle em parceria com a Alura<br>🌱 Aprendendo: Java, HTML, CSS e JavaScript<br>🎯 Objetivo: Tornar-me uma desenvolvedora back-end em Java<br>🎓 Formação: Técnica em Informática pelo CEFET MG <br>🌐 Idiomas: Português (Nativo) | Inglês (Intermediário - B1)</p>
 
 ###
 
@@ -27,7 +27,7 @@
 
 ###
 
-<p align="left">🌍 I'm from Minas Gerais, Brazil<br>🎓 Student of ONE - Oracle Next Education, a study program created by Oracle in partnership with Alura<br>🌱 Learning: Java, HTML, CSS and JavaScript<br>🎯 Objective: Becoming a back-end developer in Java<br>🎓 Education: Computer Technician from CEFET MG | Graduated in Nursing from UFRJ<br>🌐 Languages: Portuguese (Native) | English (Intermediate - B1)</p>
+<p align="left">🌍 I'm from Minas Gerais, Brazil<br>🎓 Student of ONE - Oracle Next Education, a study program created by Oracle in partnership with Alura<br>🌱 Learning: Java, HTML, CSS and JavaScript<br>🎯 Objective: Becoming a back-end developer in Java<br>🎓 Education: Computer Technician from CEFET MG <br>🌐 Languages: Portuguese (Native) | English (Intermediate - B1)</p>
 
 ###
 
